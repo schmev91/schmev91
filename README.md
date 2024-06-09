@@ -4,7 +4,7 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true)](https://discord.com/users/508649229628080130)
   
-[Imgur](https://imgur.com/0wWk2K4)
+<blockquote class="imgur-embed-pub" lang="en" data-id="0wWk2K4"><a href="https://imgur.com/0wWk2K4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 </div>
 
