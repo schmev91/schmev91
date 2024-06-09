@@ -11,9 +11,9 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;gap:3rem">
+<div>
   <img src="https://streak-stats.demolab.com?user=schmev91&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schmev91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schmev91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
