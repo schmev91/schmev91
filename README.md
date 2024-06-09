@@ -1,5 +1,7 @@
 <h3 align="left">Hi 😶, I'm trailblazing on my own journey</h3>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/508649229628080130)](https://discord.com/users/508649229628080130)
+
 ###
 
 <div align="center">
