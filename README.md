@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
-   <img align="right" height="210px" style="border-radius: 0.5rempx" src="https://i.imgur.com/0wWk2K4.gif"  />
+   <img align="right" height="210px" style="border-radius: 0.5rempx" src="https://i.imgur.com/bHuG4rf.gif"  />
 </div>
 
 
