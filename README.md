@@ -1,16 +1,16 @@
 <h3 align="left">Hi 😶, I'm trailblazing on my own journey</h3>
 
-<div style="display:flex; justify-contents:between">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true)](https://discord.com/users/508649229628080130)
   
-<img src="https://i.imgur.com/0wWk2K4.gif">
+<img src="https://i.imgur.com/0wWk2K4.gif" height="210px">
 
 </div>
 
 ###
 
-<div style="display:flex; justify-contents:between;gap: 3rem">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://streak-stats.demolab.com?user=schmev91&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schmev91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
