@@ -1,7 +1,13 @@
 <h3 align="left">Hi 😶, I'm trailblazing on my own journey</h3>
 
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true)](https://discord.com/users/508649229628080130)
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
+   <img height="210px" src="https://i.imgur.com/0wWk2K4.gif"  />
+</div>
+
 
 ###
 
