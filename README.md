@@ -1,6 +1,9 @@
 <h3 align="left">Hi 😶, I'm trailblazing on my own journey</h3>
 
+<div style="display:flex; justify-contents:between">
 [![Discord Presence](https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true&)](https://discord.com/users/508649229628080130)
+<img src="https://imgur.com/0wWk2K4">
+</div>
 
 ###
 
