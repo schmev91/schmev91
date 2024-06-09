@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
-   <img align="right" height="210px" style="border-radius: 9px" src="https://i.imgur.com/0wWk2K4.gif"  />
+   <img align="right" height="210px" style="border-radius: 0.5rempx" src="https://i.imgur.com/0wWk2K4.gif"  />
 </div>
 
 
@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/0wWk2K4.gif"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/905852853334179941/1248632480840286360/ezgif-5-1a081aef7d.gif?ex=66645f1d&is=66630d9d&hm=aa5843a1f510822378aac6bf71266f5dbacd25e0fbc1887d71097dab8af67d56&=&width=390&height=390"  />
 
 ###
 
