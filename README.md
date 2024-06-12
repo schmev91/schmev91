@@ -16,9 +16,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schmev91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/905852853334179941/1248632480840286360/ezgif-5-1a081aef7d.gif?ex=66645f1d&is=66630d9d&hm=aa5843a1f510822378aac6bf71266f5dbacd25e0fbc1887d71097dab8af67d56&=&width=390&height=390"  />
 
 ###
 
