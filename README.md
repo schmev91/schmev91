@@ -5,12 +5,13 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
-   <iframe
-   src="https://redisa.dev/?activity_only=true&theme=dark&user_id=508649229628080130"
-   allowtransparency="true"
- />
+   
    <img align="right" height="150px" style="border-radius: 0.5rempx" src="https://i.imgur.com/bHuG4rf.gif"  />
 </div>
+
+### Embedded Example
+
+<iframe src="https://redisa.dev/?activity_only=true&theme=dark&user_id=508649229628080130" allowtransparency="true"></iframe>
 
 
 ###
