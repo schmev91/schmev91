@@ -5,6 +5,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
+   
    <img align="right" height="150px" style="border-radius: 0.5rempx" src="https://i.imgur.com/bHuG4rf.gif"  />
 </div>
 
@@ -39,6 +40,8 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/schmev91/schmev91/main/assets/icons/livewire.png" height="30" alt="livewire logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="30" alt="alpinelinux logo"  />
   <img width="12" />
