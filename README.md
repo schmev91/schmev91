@@ -6,7 +6,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://lanyard.cnrad.dev/api/508649229628080130?idleMessage=chilling...&showDisplayName=true" />
    
-   <img align="right" height="150px" style="border-radius: 0.5rempx" src="https://i.imgur.com/bHuG4rf.gif"  />
+   <img align="right" height="150px" style="border-radius: 0.5rempx" src="https://cdn.discordapp.com/attachments/905852853334179941/1255503440025489590/49969b7098174aa4.gif?ex=667d5e32&is=667c0cb2&hm=ed2c2d837021ad52e89831ae1aab827bbdd60bbe353ea794afcaa76319376856&"  />
 </div>
 
 
@@ -17,7 +17,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schmev91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+t
 ###
 
 <div align="left">
